@@ -1,0 +1,4 @@
+quarkus:
+  mongodb:
+    connection-string: mongodb://admin:admin@localhost:27017/
+    database: users
